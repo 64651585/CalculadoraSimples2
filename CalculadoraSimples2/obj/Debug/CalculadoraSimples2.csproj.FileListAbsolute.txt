@@ -1,0 +1,10 @@
+C:\Users\POSITIVO\source\repos\CalculadoraSimples2\CalculadoraSimples2\bin\Debug\CalculadoraSimples2.exe.config
+C:\Users\POSITIVO\source\repos\CalculadoraSimples2\CalculadoraSimples2\bin\Debug\CalculadoraSimples2.exe
+C:\Users\POSITIVO\source\repos\CalculadoraSimples2\CalculadoraSimples2\bin\Debug\CalculadoraSimples2.pdb
+C:\Users\POSITIVO\source\repos\CalculadoraSimples2\CalculadoraSimples2\obj\Debug\CalculadoraSimples2.csprojAssemblyReference.cache
+C:\Users\POSITIVO\source\repos\CalculadoraSimples2\CalculadoraSimples2\obj\Debug\CalculadoraSimples2.FormCalc.resources
+C:\Users\POSITIVO\source\repos\CalculadoraSimples2\CalculadoraSimples2\obj\Debug\CalculadoraSimples2.Properties.Resources.resources
+C:\Users\POSITIVO\source\repos\CalculadoraSimples2\CalculadoraSimples2\obj\Debug\CalculadoraSimples2.csproj.GenerateResource.cache
+C:\Users\POSITIVO\source\repos\CalculadoraSimples2\CalculadoraSimples2\obj\Debug\CalculadoraSimples2.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\source\repos\CalculadoraSimples2\CalculadoraSimples2\obj\Debug\CalculadoraSimples2.exe
+C:\Users\POSITIVO\source\repos\CalculadoraSimples2\CalculadoraSimples2\obj\Debug\CalculadoraSimples2.pdb
